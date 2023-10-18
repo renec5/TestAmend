@@ -1,2 +1,4 @@
 Test a change on local new change
-this a new change to test amend process
+this a new change to test amend process 
+third line
+fourth line
